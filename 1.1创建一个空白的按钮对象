@@ -1,0 +1,8 @@
+from tkinter import *
+
+top = Tk()
+
+B = Button()
+
+B.pack()
+top.mainloop()
