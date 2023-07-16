@@ -2,6 +2,7 @@
 
 import tkinter
 
+#创建一个Tk对象？
 top = tkinter.Tk()
 #进入消息循环
 top.mainloop()
