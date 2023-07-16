@@ -1,5 +1,6 @@
-# Hello-World
-Try my first test
+# 测试第一篇，打开一个空白窗口
 
-This is revert test.
-First
+import tkinter
+top = tkinter.Tk()
+#进入消息循环
+top.mainloop()
