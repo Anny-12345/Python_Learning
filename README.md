@@ -1,2 +1,1 @@
-# Hello-World
-Try my first test
+#这是关于python的tkinter的测试记录
