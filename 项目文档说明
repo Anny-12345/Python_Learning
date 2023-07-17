@@ -1,0 +1,7 @@
+Python_Learning为项目名
+python_learning为项目主代码
+下面的所有其他创建时可以直接继承python_learning的内容或其他子节点的内容
+但python_learning下面的文件的直接修改不会影响其他内容
+同样，其他内容下面的修改也不会影响python_learning
+除了主项目名，下面的所有内容只会在创建时继承，在节点上属于父与子，但创建之后不会相互影响
+仅以此记
