@@ -1,8 +1,0 @@
-#开始创建一个空白的用户界面
-
-import tkinter
-
-#创建一个Tk对象？
-top = tkinter.Tk()
-#进入消息循环
-top.mainloop()
